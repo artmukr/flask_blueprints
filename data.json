@@ -1,0 +1,42 @@
+{
+  "people": [
+    {
+      "id": 0,
+      "name": "Steve",
+      "age": 20,
+      "country": "US"
+    },
+    {
+      "id": 1,
+      "name": "Jake",
+      "age": 11,
+      "country": "Spain"
+    },
+    null,
+    null,
+    {
+      "id": 4,
+      "country": "Ukraine",
+      "name": "Mykola",
+      "age": 59
+    },
+    {
+      "id": 5,
+      "country": "Ukraine",
+      "name": "Mykola",
+      "age": 59
+    }
+  ],
+  "posts": [
+    {
+      "id": 0,
+      "user_id": 0,
+      "title": "my name is Steve"
+    },
+    {
+      "id": 1,
+      "user_id": 1,
+      "title": "HOHHo"
+    }
+  ]
+}
